@@ -1,6 +1,6 @@
 # Nimbus Landing Page
 
-Welcome to the **Nimbus Landing Page** repository!  
+Welcome to the **Nimbus** repository!  
 This project is a modern, interactive web platform designed to help users discover, explore, and plan trips to monuments and destinations using AI-powered recommendations, immersive 3D/AR/VR experiences, and collaborative trip planning tools.
 
 ---
